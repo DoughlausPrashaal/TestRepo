@@ -1,0 +1,2 @@
+const arr ["Prashaal","B"]
+console.log(arr)
